@@ -165,19 +165,7 @@ stock_transactions
 
 ---
 
-## ⚙️ Environment Variables
 
-Create a `.env` file inside the `backend/` directory:
-
-```env
-PORT=5000
-DATABASE_URL=postgresql://user:password@host:5432/dbname
-JWT_SECRET=your_jwt_secret_here
-```
-
-> If using **Supabase**, paste the connection string from your project's database settings into `DATABASE_URL`.
-
----
 
 ## 🚀 Getting Started
 
